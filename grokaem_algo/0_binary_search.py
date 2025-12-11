@@ -5,6 +5,8 @@
         - guess > target, то  mid - 1
         - guess < target, то  mid + 1
 
+    - Сложность: O(log(n))
+
 """
 
 def binary_search(my_list, target):
